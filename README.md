@@ -1,4 +1,4 @@
-# Price-Traker-Flutter
+# Price-Tracker-Flutter
 A sample flutter application shows an example about the usage of streams with BLoC state-management, communicates with a WebSocket API which supports a price tracking events and the market symbols and assets.
 
 #### Compatible with **Android, IOS, Web, Windows** platforms.
